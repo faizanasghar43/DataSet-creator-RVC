@@ -13,7 +13,7 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Get all the MP3 or WAV files in the "audios" folder
 print("Instant Dataset Maker")
-print("provided to you by youtube.com/@rawonions")
+print("provided to you by github.com/faizanasghar43")
 print("Read the README.txt file for more info!")
 print()
 print("Loading...")
